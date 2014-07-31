@@ -9,3 +9,4 @@ files[] = first.test
 
 ;dependencies[] = autoload
 ;php = 5.2
+edit
